@@ -1,0 +1,2 @@
+from .interpolation import newton_interpolation, display_lagrange_interpolation
+from .linear_regression import display_linear_regression_simple, display_linear_regression_multiple
