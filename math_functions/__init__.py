@@ -1,1 +1,1 @@
-from .math_functions import select_function
+from .math_functions import select_function, cos_function
